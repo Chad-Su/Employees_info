@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EmployeeTest
+comment0.text=\n\ The\ test\ class\ EmployeeTest.\n\n\ @author\ \ Anwarul\ patwary\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ testgetName()
+comment3.params=
+comment3.target=void\ testgetEmployeeRank()
+comment4.params=
+comment4.target=void\ testgetEmployeeExperience()
+comment5.params=
+comment5.target=void\ testgetEmployeeAge()
+numComments=6
